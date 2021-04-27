@@ -60,7 +60,7 @@
     "rxjs": "^6.3.3",
     "sinon": "^6.3.4",
     "store": "^2.0.12",
-    "validator": "^10.7.0",
+    "validator": "^13.6.0",
     "webpack-remove-serviceworker-plugin": "^1.0.0"
   },
   "keywords": [
